@@ -141,6 +141,7 @@
                         </variation>
                     </view>
                     <connections>
+                        <outlet property="lable1" destination="zpz-30-JZR" id="gBL-Vw-AuK"/>
                         <outlet property="textField1" destination="J5c-4G-7o3" id="tdi-QE-MFc"/>
                         <outlet property="textField2" destination="KaA-DL-hjd" id="FDw-Of-uJe"/>
                         <outlet property="textField3" destination="4DN-QH-1BD" id="q5A-k0-g7j"/>
